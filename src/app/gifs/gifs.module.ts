@@ -12,7 +12,7 @@ import { HomePageComponent } from './pages/home-page/home-page.component';
     CommonModule
   ],
   exports: [
-    HomePageComponent
+    HomePageComponent,
   ]
 })
 export class GifsModule { }
